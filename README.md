@@ -1,0 +1,2 @@
+# SimpleChess
+Practia TQS UAB
